@@ -124,7 +124,7 @@
         </pluginManagement>
     </build>
 
-    <!--nexus maven info-->
+   <!-- &lt;!&ndash;nexus maven info&ndash;&gt;
     <distributionManagement>
         <snapshotRepository>
             <id>snapshot</id>
@@ -169,6 +169,6 @@
                 <enabled>true</enabled>
             </releases>
         </pluginRepository>
-    </pluginRepositories>
+    </pluginRepositories>-->
 
 </project>
